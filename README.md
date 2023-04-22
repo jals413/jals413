@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://jals413.github.io/](https://jals413.github.io/)
+- 👨‍💻 All of my projects are available at [https://jalthakor.tech/](https://jalthakor.tech/)
 
 - 💬 Ask me about **Anything**
 
