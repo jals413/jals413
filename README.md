@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p><img align="center" src="https://skillicons.dev/icons?i=js,express,react,nodejs,mongodb,mysql,py,selenium,docker,vscode,aws,firebase,git,github" alt="jals413" /></p>
+<p><img align="center" src="https://skillicons.dev/icons?i=cpp,js,py,go,mongodb,express,react,nodejs,mysql,selenium,docker,vscode,aws,git,github" alt="jals413" /></p>
 
 
 <br></br>
